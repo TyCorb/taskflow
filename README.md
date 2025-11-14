@@ -70,11 +70,12 @@ taskflow
 
 🧭 Future Enhancements
 <details> <summary>Click to expand</summary>
- - Drag & drop task sorting
- - User accounts
- - Cloud sync
- - Theme switching
- - AI task suggestions
+
+- Drag & drop task sorting
+- User accounts
+- Cloud sync
+- Theme switching
+- AI task suggestions
 </details>
 📸 Screenshots
 <details> <summary>Click to expand</summary>
