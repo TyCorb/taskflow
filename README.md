@@ -61,14 +61,14 @@ taskflow
 </details>
 
 ## 🧪 Running Locally
-
+<details>
 ```bash
 git clone https://github.com/TyCorb/taskflow.git
 cd taskflow
 npm install
 npm start
 Open your browser at: http://localhost:3000
-
+</details>
 🧭 Future Enhancements
 <details> <summary>Click to expand</summary>
 Drag & drop task sorting
