@@ -61,25 +61,20 @@ taskflow
 </details>
 
 ## 🧪 Running Locally
-bash
-git clone https://github.com/TyCorb/taskflow.git
-cd taskflow
-npm install
-npm start
-Open your browser at: http://localhost:3000
+- bash
+- git clone https://github.com/TyCorb/taskflow.git
+- cd taskflow
+- npm install
+- npm start
+- Open your browser at: http://localhost:3000
 
 🧭 Future Enhancements
 <details> <summary>Click to expand</summary>
-Drag & drop task sorting
-
-User accounts
-
-Cloud sync
-
-Theme switching
-
-AI task suggestions
-
+ - Drag & drop task sorting
+ - User accounts
+ - Cloud sync
+ - Theme switching
+ - AI task suggestions
 </details>
 📸 Screenshots
 <details> <summary>Click to expand</summary>
