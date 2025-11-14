@@ -1,70 +1,89 @@
-# Getting Started with Create React App
+# 📝 TaskFlow — Minimalist Task Manager
+*# → H1 heading for project title.*
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3-blue?logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-black?logo=vercel)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI-blue?logo=github-actions&logoColor=white)
+*Badges showing tech stack and CI/CD.*
 
-## Available Scripts
+A clean, fast, animated task manager built with React, TailwindCSS, and Framer Motion.  
+Created as part of my coding portfolio to demonstrate problem-solving, UI polish, and modern front-end development skills.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Live Demo
+🔗 [https://taskflow-ty.vercel.app](https://taskflow-ty.vercel.app)
+*Clickable link to the deployed app.*
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✨ Features
+- ✔ Add, toggle, and delete tasks  
+- ✔ Clear completed tasks  
+- ✔ Smooth animations with Framer Motion  
+- ✔ Light / Dark mode toggle  
+- ✔ Persistent storage via LocalStorage  
+- ✔ Responsive UI built with TailwindCSS  
+- ✔ Fully deployed on Vercel (no backend required)
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠 Tech Stack
 
-### `npm run build`
+**Frontend:**  
+- React (Create React App)  
+- TailwindCSS  
+- Framer Motion  
+- JavaScript (ES6+)  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Deployment / Tooling:**  
+- Vercel  
+- GitHub Version Control  
+- GitHub Actions (CI)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📂 Project Structure
+<details>
+<summary>Click to expand</summary>
+taskflow
+│── public
+│── src
+│ ├── App.js
+│ ├── index.js
+│── package.json
+│── tailwind.config.js
+│── postcss.config.js
+│── README.md
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+</details>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🧪 Running Locally
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+git clone https://github.com/TyCorb/taskflow.git
+cd taskflow
+npm install
+npm start
+Open your browser at: http://localhost:3000
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🧭 Future Enhancements
+<details> <summary>Click to expand</summary>
+Drag & drop task sorting
 
-## Learn More
+User accounts
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Cloud sync
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Theme switching
 
-### Code Splitting
+AI task suggestions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+</details>
+📸 Screenshots
+<details> <summary>Click to expand</summary>
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</details>
